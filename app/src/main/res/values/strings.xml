@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">intentsApp</string>
+    <string name="welcome_to_my_test_app">Welcome to my test app</string>
+    <string name="go_to_test">Go to Test</string>
+    <string name="git_repo">Git Repo</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="link"><![CDATA[Link<>]]></string>
+</resources>
